@@ -12,6 +12,7 @@ export const Banner = () => {
         width={400}
         height={500}
         className={styles.image}
+        priority
       />
     </section>
   );
